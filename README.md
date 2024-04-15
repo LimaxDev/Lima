@@ -14,7 +14,7 @@
 <h4 align="left">About me<br><br>👋 Hello! My name is Igor and I'm passionate about software development. Since a young age, I've been fascinated by the field of IT and have dedicated my studies and career to the world of programming.<br>Experience and skills<br><br>🔧 Currently, I study and work mainly with Python, a language that captivates me with its versatility and power. Additionally, I have experience in C#, Django, Flask, Linux, HTML, and CSS, enabling me to develop a wide range of projects.<br>Passion for the field<br><br>💡 My interest in advancing in the technology field is driven by my passion for learning and exploring new possibilities. My main goal is to become a standout back-end developer and, in the future, transition into the field of cybersecurity, where I see an exciting challenge and an opportunity to contribute to digital protection.<br>Interests beyond programming<br><br>🧠 Despite being immersed in the IT field, I have a particular interest in psychology, a discipline that complements my perspective on software development and human interactions.<br>Highlighted projects<br><br>🚀 Throughout my journey, I've had the opportunity to create automations and web systems that add value to users and simplify complex processes.<br>Conclusion<br><br>🌟 I'm always seeking new knowledge and challenges in the software development field. If you share similar interests or have ideas for collaborations, feel free to get in touch!</h4>
 
 ###
-
+---
 <p align="left">Social networks</p>
 
 ###
@@ -29,7 +29,7 @@
 </div>
 
 ###
-
+---
 <p align="left">Tecnologies of my day</p>
 
 ###
