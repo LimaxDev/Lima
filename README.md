@@ -1,11 +1,11 @@
-### Ola!
+### Eaii!
 
 
 ![Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=LimaxDev&show_icons=true&theme=transparent)
 
 <h4>
 
-Olá! Meu nome é Igor e sou apaixonado por desenvolvimento de software. Desde cedo, me encantei pela área de TI e tenho dedicado meus estudos e carreira ao mundo da programação.
+Ola! Meu nome é Igor e sou apaixonado por desenvolvimento de software. Desde cedo, me encantei pela área de TI e tenho dedicado meus estudos e carreira ao mundo da programação.
 Experiência e habilidades
 
 Atualmente, estudo e trabalho principalmente com Python, uma linguagem que me fascina pela sua versatilidade e poder. Além disso, tenho experiência em C#, Django, Flask, Linux, HTML e CSS, o que me permite desenvolver uma ampla gama de projetos.
